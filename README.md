@@ -52,11 +52,11 @@ Streamlit을 통해 localhost에서 시각화 자료를 볼 수 있습니다.
   - SOLUTION
   - 번외
 
-'''
+'''python
 pip install streamlit
 '''
 
-'''
+'''python
 steamlit run OnTT_visualization.py
 '''
 
