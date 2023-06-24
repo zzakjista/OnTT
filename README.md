@@ -52,13 +52,13 @@ Streamlit을 통해 localhost에서 시각화 자료를 볼 수 있습니다.
   - SOLUTION
   - 번외
 
-'''python
+```python
 pip install streamlit
-'''
+```
 
-'''python
+```python
 steamlit run OnTT_visualization.py
-'''
+```
 
 # contents
 시각화 자료를 분석하고 문제점을 발견해 솔루션을 제시하는 과정이 포함되어있습니다.
