@@ -56,8 +56,8 @@ Streamlit을 통해 localhost에서 시각화 자료를 볼 수 있습니다.
 pip install streamlit
 ```
 
-```python
-steamlit run OnTT_visualization.py
+```
+streamlit run OnTT_visualization.py
 ```
 
 # contents
